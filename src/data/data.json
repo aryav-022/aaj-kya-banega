@@ -667,41 +667,6 @@
       ]
     }
   ],
-  "18/1": [
-    {
-      "name": "Bread Tikki",
-      "ingredients": [
-        "Bread",
-        "Potato",
-        "Onion",
-        "Green Chilli",
-        "Ginger",
-        "Garlic",
-        "Coriander Leaves",
-        "Red Chilli Powder",
-        "Coriander Powder",
-        "Garam Masala",
-        "Salt",
-        "Oil"
-      ]
-    },
-    {
-      "name": "Momos",
-      "ingredients": [
-        "Maida",
-        "Cabbage",
-        "Carrot",
-        "Onion",
-        "Ginger",
-        "Garlic",
-        "Green Chilli",
-        "Soya Sauce",
-        "Vinegar",
-        "Salt",
-        "Oil"
-      ]
-    }
-  ],
   "19/1": [
     {
       "name": "Bread Tikki",
